@@ -17,7 +17,7 @@ This is a responsive website built using Angular.
 ## How to Run
 
 1. Clone repository  
-   git clone https://github.com/AyswaryaCS/Angular-nest-digital.git
+   git clone https://github.com/AyswaryaCS/angular-nest-digital-website.git
 
 2. Go to project folder  
    cd Angular-nest-digital
